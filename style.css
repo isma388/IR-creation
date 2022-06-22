@@ -1,0 +1,58 @@
+
+
+.navigation a:hover{
+    background-color: rgb(189, 189, 189);
+}
+
+.bg-image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  }
+
+.presentation{
+    padding: 5%;
+    padding-left: 7%;
+}
+
+.contenue{
+    border-radius: 30%;
+   
+}
+
+.a_propos_cont{
+    padding: 5%;
+    padding-left: 7%;
+    
+}
+
+img{
+     max-width: 100%;
+}
+
+.icon{
+    position: relative;
+    left: 30%;
+}
+
+.icon_i{
+    position: relative;
+    left:28%;
+    top:1%;
+}
+
+.i_text{
+    position:relative;
+    top: 7%;
+}
+
+.icon_f{
+    position: relative;
+    left: 17%;
+}
+
+.email{
+    position: relative;
+    left: 32%;
+}
